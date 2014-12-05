@@ -3,7 +3,7 @@ title:       Life.
 email:       thebathroompass@gmail.com
 author:      Bathroom Pass
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl:     ""
+baseurl:     "/"
 url:         "bathroompass.github.io/life"
 
 # Google analytics
