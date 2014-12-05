@@ -15,10 +15,10 @@ show_related_posts: false
 show_post_footers:  false
 
 # Social icons
-show_social_icons: false
+show_social_icons: true
 github_username:
 twitter_username:
-google_plus_id:
+google_plus_id:   112247890029620267118
 linkedin_username:
 bitcoin_url:
 paypal_url:
